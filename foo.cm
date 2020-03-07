@@ -1,0 +1,6 @@
+Library
+  structure Foo
+is
+  foo.sml
+  $/basis.cm
+  $smlnj/cm.cm
